@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">WinnerX</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="facebook_app_id">622602176332391</string>
+  <string name="facebook_client_token">e1bcea6540c86dad32fff56b2dc2c39c</string>
+  <string name="fb_login_protocol_scheme">fb622602176332391</string>
+</resources>

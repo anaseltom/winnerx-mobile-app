@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "941515184855",
+    "project_id": "winnerx-f9ad1",
+    "storage_bucket": "winnerx-f9ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941515184855:android:a00bd70dce2f3673b8ee92",
+        "android_client_info": {
+          "package_name": "com.winnerx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941515184855-1fc8rlkirnjit5ijb2ck902p8aam677v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winnerx",
+            "certificate_hash": "6cac3afb0a7e99e41603b17495508a16c8f8ad92"
+          }
+        },
+        {
+          "client_id": "941515184855-ucgh9m7vdpmruu0hh9je57482m3thqt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptaDVUQMpHlOVKIol9sVejGgVDL8taZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941515184855-ucgh9m7vdpmruu0hh9je57482m3thqt1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "941515184855-ag5hffe2d9jf1pnjm2osq7sh055lt129.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.winnerx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
